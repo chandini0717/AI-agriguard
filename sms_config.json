@@ -1,0 +1,11 @@
+{
+  "provider": "Fast2SMS",
+  "fast2smsApiKey": "",
+  "twilioAccountSid": "",
+  "twilioAuthToken": "",
+  "twilioFromNumber": "",
+  "msg91AuthKey": "",
+  "msg91SenderId": "AGRIGU",
+  "sirenDurationSeconds": 30,
+  "language": "all"
+}

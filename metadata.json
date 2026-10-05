@@ -1,0 +1,9 @@
+{
+  "name": "AgriGuard AI – Smart Farm Monitoring & Advisory",
+  "description": "Smart Farm Monitoring, AI Disease & Pest Detection, Animal Intrusion Alert, and Mobile Phone SMS Alert Dispatch System with English, Telugu, and Hindi multilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

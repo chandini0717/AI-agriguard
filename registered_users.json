@@ -1,0 +1,65 @@
+[
+  {
+    "id": "usr-01",
+    "name": "Chandini Lalam",
+    "mobileNumber": "+91 6303015695",
+    "cropName": "Tomato",
+    "fieldLocation": "Kakinada, Andhra Pradesh",
+    "registeredAt": "2026-10-04 09:00 AM",
+    "active": true
+  },
+  {
+    "id": "usr-02",
+    "name": "Ravi Kumar",
+    "mobileNumber": "+91 98491 55432",
+    "cropName": "Chilli & Maize",
+    "fieldLocation": "Kakinada East Sector",
+    "registeredAt": "2026-10-01 09:15 AM",
+    "active": false
+  },
+  {
+    "id": "usr-03",
+    "name": "Priya Reddy",
+    "mobileNumber": "+91 97012 33445",
+    "cropName": "Tomato",
+    "fieldLocation": "Kakinada Canal Belt",
+    "registeredAt": "2026-10-01 10:00 AM",
+    "active": false
+  },
+  {
+    "id": "usr-04",
+    "name": "Suresh Varma",
+    "mobileNumber": "+91 94401 88765",
+    "cropName": "Cotton & Pulses",
+    "fieldLocation": "Samalkota Boundary",
+    "registeredAt": "2026-10-02 11:30 AM",
+    "active": false
+  },
+  {
+    "id": "usr-05",
+    "name": "Ananya Sharma",
+    "mobileNumber": "+91 91234 56789",
+    "cropName": "Tomato & Vegetables",
+    "fieldLocation": "Greenhouse Sector B",
+    "registeredAt": "2026-10-02 02:45 PM",
+    "active": false
+  },
+  {
+    "id": "usr-06",
+    "name": "Venkat Rao",
+    "mobileNumber": "+91 99887 66554",
+    "cropName": "Banana Orchards",
+    "fieldLocation": "Godavari Delta Field",
+    "registeredAt": "2026-10-03 07:15 AM",
+    "active": false
+  },
+  {
+    "id": "usr-07",
+    "name": "Lakshmi Devi",
+    "mobileNumber": "+91 98665 43210",
+    "cropName": "Groundnut & Sunflower",
+    "fieldLocation": "Peddapuram Ridge",
+    "registeredAt": "2026-10-03 08:45 AM",
+    "active": false
+  }
+]
